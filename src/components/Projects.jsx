@@ -8,7 +8,7 @@ const projects = [
     description:
       "Designed and developed a production-style full-stack system to manage sweet inventory, orders, and user roles. Implemented JWT-based authentication with role-based access control and built scalable REST APIs using Spring Boot, integrated with a responsive React frontend.",
     tech: ["Spring Boot", "React", "JWT", "SQLite"],
-    github: "https://github.com/AnshikaGoel3/Sweet-Shop-Management-System",
+    github: "https://github.com/AnshikaGoel3/ai-kata-sweet-shop",
     featured: true,
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description:
       "Resume builder application enabling users to generate professional resumes with real-time preview. Integrated backend services for structured data handling and PDF generation with a focus on usability and clean interaction design.",
     tech: ["React", "Spring Boot", "PDF"],
-    github: "https://github.com/AnshikaGoel3/Resume-Builder",
+    github: "https://github.com/AnshikaGoel3/AI-Resume-Builder",
   },
   {
     title: "NGO Donation DApp",
