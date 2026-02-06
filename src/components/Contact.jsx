@@ -11,7 +11,7 @@ const contacts = [
   {
     label: "LinkedIn",
     value: "linkedin.com/in/anshika-goel",
-    link: "https://www.linkedin.com/in/anshika-goel",
+    link: "www.linkedin.com/in/anshika-goel-7a29a224a",
     icon: FaLinkedin,
   },
   {
