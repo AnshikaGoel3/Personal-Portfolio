@@ -1,16 +1,75 @@
-# React + Vite
+# 🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated, and responsive developer portfolio built to showcase projects, skills, and technical growth in a clean and professional way.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:**  
+👉 https://personal-portfolio-smoky-one-66.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎨 Modern dark UI with purple accent theme  
+- 🌌 Global animated background across all sections  
+- 🧭 Floating navbar with active section tracking  
+- ⚡ Smooth scroll + Framer Motion animations  
+- 📱 Fully responsive design  
+- 🚀 Continuous deployment via Vercel  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Icons
+
+### Tooling & Platform
+- Git & GitHub
+- Vercel (Deployment)
+
+---
+
+## 📂 Sections Overview
+
+- **Hero** – Introduction with call-to-action  
+- **About** – Technical focus and interests  
+- **Skills** – Animated tech stack cards  
+- **Projects** – Full-stack & blockchain projects  
+- **Education** – Academic background  
+- **Achievements** – Certifications & milestones  
+- **Contact** – External profile links  
+
+---
+
+## 📁 Projects Included
+
+- **Full-Stack Management System** – Role-based auth & REST APIs  
+- **Personal Finance Manager** – Budget & expense tracking  
+- **Resume Builder** – Dynamic resume generation with preview  
+- **Blockchain Donation App** – Ethereum smart contracts + MetaMask  
+- **ERC-20 Token Project** – Solidity smart contract implementation  
+
+Each project includes:
+- Description
+- Tech stack
+- GitHub repository link
+
+---
+
+## 🚀 Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/personal-portfolio.git
+
+# Navigate into the project
+cd personal-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
