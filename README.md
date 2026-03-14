@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A modern, animated, and responsive developer portfolio built to showcase projects, skills, and technical growth in a clean and professional way.
 
@@ -9,12 +9,12 @@ A modern, animated, and responsive developer portfolio built to showcase project
 
 ## ✨ Features
 
-- 🎨 Modern dark UI with purple accent theme  
-- 🌌 Global animated background across all sections  
-- 🧭 Floating navbar with active section tracking  
-- ⚡ Smooth scroll + Framer Motion animations  
-- 📱 Fully responsive design  
-- 🚀 Continuous deployment via Vercel  
+-  Modern dark UI with purple accent theme  
+-  Global animated background across all sections  
+-  Floating navbar with active section tracking  
+-  Smooth scroll + Framer Motion animations  
+-  Fully responsive design  
+-  Continuous deployment via Vercel  
 
 ---
 
@@ -59,7 +59,7 @@ Each project includes:
 
 ---
 
-## 🚀 Local Development
+##  Local Development
 
 ```bash
 # Clone the repository
