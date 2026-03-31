@@ -3,26 +3,39 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
   {
-    title: "AI Resume Generator",
-    highlight: "Featured • AI Project",
+    title: "AI CodeLab",
+    highlight: "Featured • AI + DSA Platform",
     description:
-      "Full-stack AI resume platform with real-time preview, PDF export and Groq LLM integration for AI-enhanced content generation.",
+      "AI-powered coding practice platform with 500+ DSA problems, Monaco code editor, real-time code execution using Judge0, and AI debugging/hint generation powered by Groq LLM.",
+    tech: ["React", "Spring Boot", "MongoDB", "Judge0", "Groq API", "JWT"],
+    github: "https://github.com/AnshikaGoel3/AI-CodeLab",
+    live: "https://ai-code-lab-six.vercel.app",
+    image: "/projects/ai-codeLab.png",
+    featured: true,
+  },
+
+  {
+    title: "AI Resume Generator",
+    highlight: "AI Project",
+    description:
+      "Full-stack AI resume platform with real-time preview, PDF export and Groq LLM integration for AI-enhanced resume content generation.",
     tech: ["React", "Spring Boot", "Groq API", "JWT"],
     github: "https://github.com/AnshikaGoel3/AI-Resume-Generator",
     live: "https://ai-resume-generator-amber.vercel.app",
     image: "/projects/ai-resume.png",
-    featured: true,
   },
+
   {
     title: "Money Manager",
     highlight: "Backend Heavy",
     description:
-      "Financial management system with expense tracking, analytics, JWT authentication and scalable REST APIs.",
+      "Financial management system with expense tracking, analytics dashboard, JWT authentication and scalable REST APIs.",
     tech: ["React", "Spring Boot", "MongoDB", "JWT"],
     github: "https://github.com/AnshikaGoel3/money-manager",
     live: "https://money-manager-frontend-pi.vercel.app",
     image: "/projects/money-manager.png",
   },
+
   {
     title: "Sweet Shop Management",
     highlight: "System Design",
@@ -34,7 +47,6 @@ const projects = [
     image: "/projects/sweet-shop.png",
   },
 
-  // ===== NO IMAGE PROJECTS =====
   {
     title: "NGO Donation DApp",
     highlight: "Blockchain",
@@ -45,6 +57,7 @@ const projects = [
     live: "",
     image: null,
   },
+
   {
     title: "Gaming Token (ERC-20)",
     highlight: "Smart Contract",
